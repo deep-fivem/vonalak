@@ -2,10 +2,30 @@ video {
     margin: auto;
 }
 
-div p {
+div p h1 h2 h3 h4 h5 h6 {
     font-size: 1.5rem;
     text-align: center;
 }
+
+div h1 {
+    color: brown;
+}
+div h2 {
+    color: aqua;
+}
+div h3 {
+    color: bisque;
+}
+div h4 {
+    color: blue;
+}
+div h5 {
+    color: blueviolet;
+}
+div h6 {
+    color: cornflowerblue;
+}
+
 
 hr {
     height: 10px;
